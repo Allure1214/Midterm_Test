@@ -1,6 +1,6 @@
 package b220091b.test;
 
-iimport javafx.application.Application;
+import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
